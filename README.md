@@ -15,9 +15,28 @@ A **fresh Computer Science graduate** from Politechnika Wrocławska who loves tu
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)](https://www.postgresql.org/) [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/)  
 *(Because "SELECT * FROM chaos" isn’t a valid life strategy.)*  
 
-**🔧 Tools I Can’t Live Without**  
-[![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/) [![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)](https://git-scm.com/) [![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white)](https://aws.amazon.com/)  
-[![Swift](https://img.shields.io/badge/-Swift-F05138?logo=swift&logoColor=white)](https://developer.apple.com/swift/) *(Dabbling in iOS!)*  
+**📱 Mobile:**
+[![Swift](https://img.shields.io/badge/-Swift-F05138?logo=swift&logoColor=white)](https://developer.apple.com/swift/)
+
+**💻 Daily Drivers**
+[![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
+[![iTerm2](https://img.shields.io/badge/-iTerm2-000000?logo=iterm2&logoColor=white)](https://iterm2.com/)
+
+**🚀 Deployment & DevOps**
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
+[![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+[![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)](https://github.com/features/actions)
+
+**🔌 Essential Plugins**
+[![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)](https://www.postman.com/)
+[![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)](https://www.figma.com/)
+[![Notion](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white)](https://www.notion.so/)
+
+**🐞 Debugging Buddies**
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![TablePlus](https://img.shields.io/badge/-TablePlus-1E1E1E?logo=tableplus&logoColor=white)](https://tableplus.com/)
+[![Chrome DevTools](https://img.shields.io/badge/-DevTools-4285F4?logo=google-chrome&logoColor=white)](https://developer.chrome.com/docs/devtools/)
 
 ---
 
