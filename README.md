@@ -32,11 +32,6 @@ A **fresh Computer Science graduate** from Politechnika Wrocławska who loves tu
 [![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)](https://www.figma.com/)
 [![Notion](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white)](https://www.notion.so/)
 
-**🐞 Debugging Buddies**
-[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![TablePlus](https://img.shields.io/badge/-TablePlus-1E1E1E?logo=tableplus&logoColor=white)](https://tableplus.com/)
-[![Chrome DevTools](https://img.shields.io/badge/-DevTools-4285F4?logo=google-chrome&logoColor=white)](https://developer.chrome.com/docs/devtools/)
-
 ---
 
 ### 📚 Beyond Code  
