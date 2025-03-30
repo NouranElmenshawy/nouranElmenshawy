@@ -18,9 +18,7 @@ A **fresh Computer Science graduate** from Politechnika Wrocławska who loves tu
 [![Swift](https://img.shields.io/badge/-Swift-F05138?logo=swift&logoColor=white)](https://developer.apple.com/swift/)
 
 **💻 Daily Drivers**
-[![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
-[![iTerm2](https://img.shields.io/badge/-iTerm2-000000?logo=iterm2&logoColor=white)](https://iterm2.com/)
+[![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/) [![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/) [![iTerm2](https://img.shields.io/badge/-iTerm2-000000?logo=iterm2&logoColor=white)](https://iterm2.com/)
 
 **🚀 Deployment & DevOps**
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
