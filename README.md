@@ -8,14 +8,13 @@ A **fresh Computer Science graduate** from Politechnika Wrocławska who loves tu
 **🎨 Frontend Alchemy**  
 [![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vuedotjs&logoColor=white)](https://vuejs.org/) [![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?logo=svelte&logoColor=white)](https://svelte.dev/)  
 [![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)](https://tailwindcss.com/) [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
-*(Yes, I make CSS stop yelling at me.)*  
 
 **⚙️ Backend & Databases**  
 [![Java](https://img.shields.io/badge/-Java-007396?logo=openjdk&logoColor=white)](https://www.java.com/) [![SpringBoot](https://img.shields.io/badge/-Spring_Boot-6DB33F?logo=springboot&logoColor=white)](https://spring.io/)  
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)](https://www.postgresql.org/) [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/)  
 *(Because "SELECT * FROM chaos" isn’t a valid life strategy.)*  
 
-**📱 Mobile:**
+**📱 Mobile**
 [![Swift](https://img.shields.io/badge/-Swift-F05138?logo=swift&logoColor=white)](https://developer.apple.com/swift/)
 
 **💻 Daily Drivers**
