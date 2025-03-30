@@ -28,4 +28,4 @@ A **fresh Computer Science graduate** from Politechnika Wrocławska who loves tu
 
 ---
 
-👉 [Email Me](nouranElmenshawy@gmail.com) | [LinkedIn](https://www.linkedin.com/in/nouran-elmenshawy/)
+👉 [Email Me](mailto:nouranElmenshawy@gmail.com) | [LinkedIn](https://www.linkedin.com/in/nouran-elmenshawy/)
